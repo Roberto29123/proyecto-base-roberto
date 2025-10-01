@@ -9,6 +9,8 @@ def main():
     op.raiz()
     op.mostrarResultado()
     
+    op.potencia()
+    op.mostrarResultado()
 
 if __name__ == "__main__":
     main()

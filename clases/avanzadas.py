@@ -30,6 +30,11 @@ class Operaciones:
             self.resultado = "El numero " + str(self.num2) + "es mayor que " + str(self.num1)
             print('hola')
 
+    
+    def potencia(self):
+        self.resultado = "La potencia de " + str(self.num1) + " elevado a la " + str(self.num2) + " es igual a " + str(self.num1**self.num2)
+
+
     def raiz(self):
         self.resultado = "La raiz de " + str(self.num1) + " a la " + str(self.num2) + " es igual a " + str(self.num1**(1/self.num2))
    
