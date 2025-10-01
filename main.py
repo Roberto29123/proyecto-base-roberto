@@ -6,6 +6,8 @@ def main():
     op.mayorque()
     op.mostrarResultado()
     
+    op.potencia()
+    op.mostrarResultado()
 
 if __name__ == "__main__":
     main()
