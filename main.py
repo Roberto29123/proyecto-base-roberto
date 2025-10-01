@@ -5,6 +5,9 @@ def main():
     op.leerNumeros()
     op.mayorque()
     op.mostrarResultado()
+
+    op.raiz()
+    op.mostrarResultado()
     
 
 if __name__ == "__main__":
